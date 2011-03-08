@@ -481,7 +481,7 @@ hidden templates
 , but templates-hidden is somewhat of a de facto standard.
  Like the 
 \family typewriter
-WEB-XML
+WEB-INF
 \family default
  directory, the contents cannot be directly requested by clients.
  They can, however, be used by other templates through mechanisms such as
